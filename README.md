@@ -1,8 +1,33 @@
-## Hi there 👋 I am Kavya Sree Polavarapu 
+<h1 align="center">👋 Hi, I'm Kavya Sree Polavarapu!</h1>
 
-The provided README includes icons for the tools and technologies section. However, if you want to expand that section to cover more of the tools and technologies from your resume, I can add additional icons. Below is an updated **Tools & Technologies** section with more tools and their corresponding icons:
+<h3 align="left">👩‍💻 About Me</h3>
+<p align="left">
+  I am a Software Engineer passionate about Machine Learning and Full Stack Development. I enjoy tackling challenging problems, creating impactful solutions, and constantly expanding my technical expertise.<br><br>
+  - 🔭 Currently working on **Large Language Models (LLMs)** and bias mitigation techniques.<br>
+  - 🌱 Learning **CUDA programming** to optimize deep learning workloads.<br>
+  - ⚡ In my free time, I enjoy exploring the fusion of **art and technology** to think creatively beyond boundaries.
+</p>
 
 ---
+
+<div align="center">
+  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" />
+</div>
+
+<div align="center">
+  <a href="https://linkedin.com/in/kavyasree14">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn" />
+  </a>
+  <a href="https://kspportfolio.vercel.app">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=google-chrome&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/Kavyasree14">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="GitHub" />
+  </a>
+</div>
+
+---
+
 
 <h3 align="left">🛠️ Tools & Technologies</h3>
 <div align="left">
@@ -39,55 +64,6 @@ The provided README includes icons for the tools and technologies section. Howev
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
 </div>
 
----
-Here's a customized README file for your GitHub repository, incorporating your resume details:
-
----
-
-<div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" />
-</div>
-
-<div align="center">
-  <a href="https://linkedin.com/in/kavyasree14">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn" />
-  </a>
-  <a href="https://kspportfolio.vercel.app">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=google-chrome&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Portfolio" />
-  </a>
-  <a href="https://github.com/Kavyasree14">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="GitHub" />
-  </a>
-</div>
-
----
-
-<h1 align="center">👋 Hi, I'm Kavya Sree Polavarapu!</h1>
-
-<h3 align="left">👩‍💻 About Me</h3>
-<p align="left">
-  I am a Software Engineer passionate about Machine Learning and Full Stack Development. I enjoy tackling challenging problems, creating impactful solutions, and constantly expanding my technical expertise.<br><br>
-  - 🔭 Currently working on **Large Language Models (LLMs)** and bias mitigation techniques.<br>
-  - 🌱 Learning **CUDA programming** to optimize deep learning workloads.<br>
-  - ⚡ In my free time, I enjoy exploring the fusion of **art and technology** to think creatively beyond boundaries.
-</p>
-
----
-
-<h3 align="left">🛠️ Languages & Tools</h3>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="Docker" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original-wordmark.svg" height="40" alt="AWS" />
-</div>
 
 ---
 
