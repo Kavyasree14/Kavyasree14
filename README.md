@@ -29,6 +29,7 @@
 </div>
 
 ---
+
 <h3 align="left">🛠️ Tools & Technologies</h3>
 
 #### Languages:
@@ -52,7 +53,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="GraphQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="Angular" />
   <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" height="40" alt="Tailwind" />
-  <img src="https://img.icons8.com/ios/50/000000/bootstrap.png" height="40" alt="Bootstrap" />
+  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" height="40" alt="Bootstrap" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" height="40" alt="Next.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django" />
@@ -68,8 +69,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" />
   <img src="https://img.icons8.com/color/48/000000/scikit-learn.png" height="40" alt="Scikit-learn" />
   <img src="https://img.icons8.com/color/48/000000/matplotlib.png" height="40" alt="Matplotlib" />
-  <img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/24/000000/external-seaborn-an-open-source-python-library-for-data-visualization-logo-filled-tal-revivo.png" height="40" alt="Seaborn" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="40" alt="Keras" />
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-seaborn-an-open-source-python-library-for-data-visualization-logo-shadow-tal-revivo.png" height="40" alt="Seaborn" />
+  <img src="https://img.icons8.com/color/48/000000/keras.png" height="40" alt="Keras" />
 </div>
 
 #### Tools & Technologies:
@@ -83,7 +84,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
   <img src="https://img.icons8.com/color/48/000000/tableau-software.png" height="40" alt="Tableau" />
-  <img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/24/000000/external-webgl-a-cross-platform-compatibility-standard-for-3d-graphics-logo-filled-tal-revivo.png" height="40" alt="WebGL" />
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-webgl-a-cross-platform-compatibility-standard-for-3d-graphics-logo-shadow-tal-revivo.png" height="40" alt="WebGL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" alt="Jenkins" />
 </div>
 
