@@ -81,7 +81,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
   <img src="https://img.icons8.com/color/48/000000/tableau-software.png" height="40" alt="Tableau" />
-  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-webgl-a-cross-platform-compatibility-standard-for-3d-graphics-logo-shadow-tal-revivo.png" height="40" alt="WebGL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" alt="Jenkins" />
 </div>
 
