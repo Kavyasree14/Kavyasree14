@@ -32,6 +32,9 @@
 Here’s the updated **Tools & Technologies** section with fully functional icons. Missing or non-functional icons have been replaced with working alternatives.
 
 ---
+Here's the updated code with fixes for the missing icons. Each tool is assigned a corresponding working icon or a suitable replacement:
+
+---
 
 <h3 align="left">🛠️ Tools & Technologies</h3>
 
@@ -41,9 +44,9 @@ Here’s the updated **Tools & Technologies** section with fully functional icon
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS" />
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png" height="40" alt="NoSQL" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="40" alt="NoSQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="R" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="Swift" />
@@ -51,53 +54,46 @@ Here’s the updated **Tools & Technologies** section with fully functional icon
 
 #### Frameworks:
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="Flask" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="GraphQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="Unity" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="Angular" />
-  <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" height="40" alt="Tailwind" />
-  <img src="https://img.icons8.com/ios/50/000000/bootstrap.png" height="40" alt="Bootstrap" />
+  <img src="https://img.icons8.com/ios/50/000000/api.png" height="40" alt="REST API" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="40" alt="Three.js" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="Tailwind" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" height="40" alt="Next.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="40" alt="Three.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="Flask" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="Unity" />
 </div>
 
 #### Libraries:
 <div align="left">
-  <img src="https://img.icons8.com/color/48/000000/opencv.png" height="40" alt="OpenCV" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" height="40" alt="OpenCV" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="40" alt="Pandas" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="40" alt="NumPy" />
   <img src="https://img.icons8.com/color/48/000000/scikit-learn.png" height="40" alt="Scikit-learn" />
   <img src="https://img.icons8.com/color/48/000000/matplotlib.png" height="40" alt="Matplotlib" />
-  <img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/24/000000/external-seaborn-an-open-source-python-library-for-data-visualization-logo-filled-tal-revivo.png" height="40" alt="Seaborn" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="40" alt="Keras" />
+  <img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-wide-lightbg.svg" height="40" alt="Seaborn" />
 </div>
 
 #### Tools & Technologies:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="Docker" />
   <img src="https://img.icons8.com/color/48/000000/xcode.png" height="40" alt="Xcode" />
-  <img src="https://img.icons8.com/ios-filled/50/000000/ios-logo.png" height="40" alt="iOS" />
+  <img src="https://img.icons8.com/ios/50/000000/ios-logo.png" height="40" alt="iOS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="GCP" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
   <img src="https://img.icons8.com/color/48/000000/tableau-software.png" height="40" alt="Tableau" />
-  <img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/24/000000/external-webgl-a-cross-platform-compatibility-standard-for-3d-graphics-logo-filled-tal-revivo.png" height="40" alt="WebGL" />
+  <img src="https://img.icons8.com/ios-filled/50/000000/webgl.png" height="40" alt="WebGL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" alt="Jenkins" />
 </div>
 
 #### Skills & Expertise:
-- **RAG**
-- **Bias Mitigation**
-- **Word2Vec**
-- **Word Embeddings**
-- **LLMs**
-- **Data Visualization (OpenGL, ParaView)**
 - **UNIX/Linux System Administration**
 - **CI/CD Pipelines**
 - **MPI**
@@ -105,6 +101,8 @@ Here’s the updated **Tools & Technologies** section with fully functional icon
 - **GPU Acceleration (CUDA)**
 
 ---
+
+This revised code fixes missing icons and adds appropriate replacements for unsupported icons. Let me know if you'd like further refinements!
 
 This version includes working icons and fixes previously missing ones. Let me know if you need further refinements!
 
