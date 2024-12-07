@@ -29,10 +29,7 @@
 </div>
 
 ---
-Here’s the updated **Tools & Technologies** section with fully functional icons. Missing or non-functional icons have been replaced with working alternatives.
-
----
-Here's the updated code with fixes for the missing icons. Each tool is assigned a corresponding working icon or a suitable replacement:
+Here is the updated **Tools & Technologies** section organized into appropriate subheadings:
 
 ---
 
@@ -46,7 +43,7 @@ Here's the updated code with fixes for the missing icons. Each tool is assigned 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="40" alt="NoSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nosql/nosql-original.svg" height="40" alt="NoSQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="R" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="Swift" />
@@ -61,35 +58,35 @@ Here's the updated code with fixes for the missing icons. Each tool is assigned 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="Unity" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="Angular" />
-  <img src="https://img.icons8.com/ios/50/000000/api.png" height="40" alt="REST API" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rest/rest-original.svg" height="40" alt="REST API" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="40" alt="Three.js" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="Tailwind" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="Tailwind" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" height="40" alt="Next.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
 </div>
 
 #### Libraries:
 <div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" height="40" alt="OpenCV" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="40" alt="Pandas" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="40" alt="NumPy" />
-  <img src="https://img.icons8.com/color/48/000000/scikit-learn.png" height="40" alt="Scikit-learn" />
-  <img src="https://img.icons8.com/color/48/000000/matplotlib.png" height="40" alt="Matplotlib" />
-  <img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-wide-lightbg.svg" height="40" alt="Seaborn" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="OpenCV" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" height="40" alt="Scikit-learn" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="Matplotlib" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" height="40" alt="Seaborn" />
 </div>
 
 #### Tools & Technologies:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="Docker" />
-  <img src="https://img.icons8.com/color/48/000000/xcode.png" height="40" alt="Xcode" />
-  <img src="https://img.icons8.com/ios/50/000000/ios-logo.png" height="40" alt="iOS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40" alt="Xcode" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="iOS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="GCP" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
-  <img src="https://img.icons8.com/color/48/000000/tableau-software.png" height="40" alt="Tableau" />
-  <img src="https://img.icons8.com/ios-filled/50/000000/webgl.png" height="40" alt="WebGL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" height="40" alt="Tableau" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webgl/webgl-original.svg" height="40" alt="WebGL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" alt="Jenkins" />
 </div>
 
@@ -102,10 +99,7 @@ Here's the updated code with fixes for the missing icons. Each tool is assigned 
 
 ---
 
-This revised code fixes missing icons and adds appropriate replacements for unsupported icons. Let me know if you'd like further refinements!
-
-This version includes working icons and fixes previously missing ones. Let me know if you need further refinements!
-
+This section is now neatly categorized, and all tools are under the appropriate headings. Let me know if any adjustments are needed!
 <h3 align="left">🌟 Projects</h3>
 <ul>
   <li>
