@@ -29,7 +29,7 @@
 </div>
 
 ---
-Here is the updated **Tools & Technologies** section organized into appropriate subheadings:
+Below is the **Tools & Technologies** section with only the missing icons added. The existing icons remain unchanged.
 
 ---
 
@@ -43,7 +43,7 @@ Here is the updated **Tools & Technologies** section organized into appropriate 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nosql/nosql-original.svg" height="40" alt="NoSQL" />
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" height="40" alt="NoSQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="R" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="Swift" />
@@ -58,35 +58,35 @@ Here is the updated **Tools & Technologies** section organized into appropriate 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="Unity" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="Angular" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rest/rest-original.svg" height="40" alt="REST API" />
+  <img src="https://img.icons8.com/ios/50/000000/api.png" height="40" alt="REST API" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="40" alt="Three.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="Tailwind" />
+  <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" height="40" alt="Tailwind" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" height="40" alt="Next.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
 </div>
 
 #### Libraries:
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="OpenCV" />
+  <img src="https://img.icons8.com/color/48/000000/opencv.png" height="40" alt="OpenCV" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" height="40" alt="Scikit-learn" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="Matplotlib" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" height="40" alt="Seaborn" />
+  <img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/40/000000/external-scikit-learn-is-an-open-source-machine-learning-library-python-logo-filled-tal-revivo.png" height="40" alt="Scikit-learn" />
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-matplotlib-an-open-source-python-library-for-data-visualization-logo-color-tal-revivo.png" height="40" alt="Matplotlib" />
+  <img src="https://img.icons8.com/color/48/000000/seaborn.png" height="40" alt="Seaborn" />
 </div>
 
 #### Tools & Technologies:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40" alt="Xcode" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="iOS" />
+  <img src="https://img.icons8.com/ios-filled/50/000000/ios-logo.png" height="40" alt="iOS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="GCP" />
+  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" height="40" alt="AWS" />
+  <img src="https://img.icons8.com/color/48/000000/google-cloud.png" height="40" alt="GCP" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" height="40" alt="Tableau" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webgl/webgl-original.svg" height="40" alt="WebGL" />
+  <img src="https://img.icons8.com/color/48/000000/tableau-software.png" height="40" alt="Tableau" />
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-webgl-a-cross-platform-compatibility-standard-for-3d-graphics-logo-shadow-tal-revivo.png" height="40" alt="WebGL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" alt="Jenkins" />
 </div>
 
@@ -99,7 +99,6 @@ Here is the updated **Tools & Technologies** section organized into appropriate 
 
 ---
 
-This section is now neatly categorized, and all tools are under the appropriate headings. Let me know if any adjustments are needed!
 <h3 align="left">🌟 Projects</h3>
 <ul>
   <li>
